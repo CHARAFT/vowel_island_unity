@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/vidreading.unity
+    guid: d3fea74895f2e494297bc3c55e38335e
+  - enabled: 1
+    path: Assets/Scenes/A.unity
+    guid: 1c507c38f9db5184f9c0f01f1d25a1b2
+  - enabled: 1
+    path: Assets/Scenes/A_write.unity
+    guid: 68176ec3e01329d428a13a7767103407
+  - enabled: 1
+    path: Assets/Scenes/cvcgame.unity
+    guid: 89a40489916900c4e9b558001c4b5738
+  - enabled: 1
+    path: Assets/Scenes/vedopuzzle.unity
+    guid: 570832a003419024e8918cfd48b22978
+  - enabled: 1
+    path: Assets/Scenes/video1.unity
+    guid: 1865e6f04a101894a887dada2da3d816
+  - enabled: 1
+    path: Assets/Scenes/vedpu_I.unity
+    guid: 7f2aca40f813fc34a86b932aca843735
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/videowriting.unity
+    guid: 1075d946a40256f4fb1be4c777c96260
+  - enabled: 1
+    path: Assets/Scenes/MiniGame1.unity
+    guid: 95ffc74ed8c7b3644b7c41514ad5e99a
+  - enabled: 1
+    path: Assets/Scenes/vidwri_I.unity
+    guid: 7869cf979b3cb1549b016f641e49033d
+  - enabled: 1
+    path: Assets/Scenes/writeA.unity
+    guid: b3834e95a36599d41bf9ca025999b56b
+  - enabled: 1
+    path: Assets/Scenes/vidCvc_I.unity
+    guid: b85da9ed513dc09459b3251ea8ffa79a
+  - enabled: 1
+    path: Assets/Scenes/level_E/E.unity
+    guid: b209143daa700c842af8607a0b10e3e1
+  - enabled: 1
+    path: Assets/Scenes/oum_I.unity
+    guid: 53978bc9443155348b6119f316ee2837
+  - enabled: 1
+    path: Assets/Scenes/vidread_I.unity
+    guid: ceb0d9a468851b0428fe21e8d9e5669c
+  - enabled: 1
+    path: Assets/Scenes/I_write.unity
+    guid: 2e036430a555e1946940dd63b4577127
+  - enabled: 1
+    path: Assets/Scenes/I.unity
+    guid: ffdeaa2c0ebd37c409c8ff9121b3c7e2
+  - enabled: 1
+    path: Assets/Scenes/level_E/cvc_E.unity
+    guid: 46d48ab63cf1e6047bd28afe8d921f2c
+  - enabled: 1
+    path: Assets/Scenes/level_E/E_write.unity
+    guid: 7c47152ceaf55bb4fb8c479a5d6c22e5
+  - enabled: 1
+    path: Assets/Scenes/level_E/oum_E.unity
+    guid: b7b8c921a6da19049a5800bf305ad95a
+  - enabled: 1
+    path: Assets/Scenes/level4_U/cvc_U.unity
+    guid: 5a4272fdf2533334e94def9ab528ae45
+  - enabled: 1
+    path: Assets/Scenes/level4_U/oum_U.unity
+    guid: b4ebb4bc2b3a22d41bb6d5325d074682
+  - enabled: 1
+    path: Assets/Scenes/level4_U/U.unity
+    guid: 383658b7184759c4a83a64a2472472af
+  - enabled: 1
+    path: Assets/Scenes/level4_U/U_write.unity
+    guid: c3af693a95055ec46a2286ef0202d0e9
+  - enabled: 0
+    path: Assets/Scenes/level2/cvc_O.unity
+    guid: a620abb384c8ca44bb9a6f8851130963
+  - enabled: 0
+    path: Assets/Scenes/level2/O.unity
+    guid: 6d518778be27a304e8dbb48d0beee5cc
+  - enabled: 0
+    path: Assets/Scenes/level2/O_write.unity
+    guid: 060c625c56825a940a85fcb451c50de4
+  - enabled: 1
+    path: Assets/Scenes/level4_U/cvc2.unity
+    guid: a621f1baeecf5d5468051ef2d07aed39
+  - enabled: 0
+    path: Assets/Scenes/level2/oum_o.unity
+    guid: 6c1c555c052e09844949347d1240fffa
+  - enabled: 1
+    path: Assets/Scenes/cvc_I.unity
+    guid: 93f9ee527bcbc17429ad4ee77e26b9ed
+  - enabled: 1
+    path: Assets/Scenes/O.unity
+    guid: e05c00665e3d7c44b9f1c49ecbfa51dc
+  - enabled: 1
+    path: Assets/Scenes/cvc_O.unity
+    guid: 3eb71fd648eff1440a59e014036e0279
+  - enabled: 1
+    path: Assets/Scenes/oum_o.unity
+    guid: 6a9e33da6c13e4c47b5efa7ceba576c3
+  - enabled: 1
+    path: Assets/Scenes/O_write.unity
+    guid: 44d1b32b5eaf3224a9e96b2f067b00f1
+  m_configObjects: {}
